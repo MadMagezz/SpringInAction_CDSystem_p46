@@ -20,4 +20,17 @@ public class CDPlayerConfig {
 
 
 
+
+    /**
+     * Больше одного бина КомпактДиск - нельзя.
+     * Соответственно либо то, либо это.
+     * */
+    /*@Bean
+    CDPlayer cdPlayer2(CompactDisc compactDisc) {
+        return new CDPlayer(compactDisc);
+    }*/
+
+
+
 }
+
